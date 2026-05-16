@@ -7,6 +7,15 @@ The core circuit utilizes a classic differential pair architecture:
 * **Input Stage:** NPN Differential Pair (2N3904) for signal comparison.
 * **Gain Stage:** PNP Transistor (2N3906) for voltage amplification.
 * **Output Stage:** NPN Emitter Follower (2N3904) for current buffering and driving the load.
+## Schematic
+![Schematic](Schematic.jpeg)
+
+## PCB Layout
+[PCB Traces](PCB%20Traces.pdf)
+
+## 3D Render
+![3D Render](3D%20PCB%20Model.jpeg)
+
 
 ## Features
 * **Analog Circuit Design:** Custom biasing and component selection for stable DC operating points.
